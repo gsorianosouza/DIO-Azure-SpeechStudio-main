@@ -2,8 +2,8 @@
 Trabalhando com o Azure Speech Studio
 
 Conhecendo o Speech Studio
-![image](https://prnt.sc/oTC01nbwBUQN)
-<img src="[URL_da_Imagem](https://prnt.sc/oTC01nbwBUQN)" alt="Conhecendo o Speech Studio">
+![image](https://github.com/user-attachments/assets/06cc7120-f241-4fef-8e29-8803605dd6eb)
+
 
 Não foi possível a criação de uma conta Azure, então improvisei um teste na IA Text-to-Speech do Google, a qual é muito boa e versátil!
 
